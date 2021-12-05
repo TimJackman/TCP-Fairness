@@ -1,0 +1,12 @@
+USERNAME: tjackman
+PASSPHRASE:
+HOST_A_IP: pc3.instageni.hawaii.edu
+HOST_A_PORT: 29010
+HOST_B_IP: pc3.instageni.hawaii.edu
+HOST_B_PORT: 29011
+HOST_C_IP: pc2.instageni.hawaii.edu
+HOST_C_PORT: 29010
+HOST_D_IP: pc2.instageni.hawaii.edu
+HOST_D_PORT: 29011
+DELAY_IP: pc1.instageni.hawaii.edu
+DELAY_PORT: 29010
