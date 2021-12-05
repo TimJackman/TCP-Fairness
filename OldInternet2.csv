@@ -1,0 +1,587 @@
+,,Interval,Transfer - A,Transfer Unit - A,Bandwidth - A,Bandwidth Unit - A,Transfer - C,Transfer Unit - C,Bandwidth - C,Bandwidth Unit - C
+reno/reno:0,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+reno/reno:0,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+reno/reno:0,2,2.0- 3.0 sec,139,KBytes,1.14,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:0,3,3.0- 4.0 sec,45.2,KBytes,371,Kbits/sec,11.3,KBytes,92.7,Kbits/sec
+reno/reno:0,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,43.8,KBytes,359,Kbits/sec
+reno/reno:0,5,5.0- 6.0 sec,274,KBytes,2.25,Mbits/sec,22.6,KBytes,185,Kbits/sec
+reno/reno:0,6,6.0- 7.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:0,7,7.0- 8.0 sec,0.00,Bytes,0.00,bits/sec,45.2,KBytes,371,Kbits/sec
+reno/reno:0,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/reno:0,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:0,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/reno:0,11,11.0-12.0 sec,318,KBytes,2.61,Mbits/sec,5.66,KBytes,46.3,Kbits/sec
+reno/reno:0,12,12.0-13.0 sec,191,KBytes,1.56,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:0,13,13.0-14.0 sec,191,KBytes,1.56,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:0,14,14.0-15.0 sec,191,KBytes,1.56,Mbits/sec,5.66,KBytes,46.3,Kbits/sec
+reno/reno:0,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:0,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:0,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:0,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:0,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/reno:1,0,0.0- 0.2 sec,105,KBytes,3.99,Mbits/sec,,,,
+reno/reno:2,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+reno/reno:2,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+reno/reno:2,2,2.0- 3.0 sec,127,KBytes,1.04,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:2,3,3.0- 4.0 sec,8.48,KBytes,69.5,Kbits/sec,11.3,KBytes,92.7,Kbits/sec
+reno/reno:2,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,43.8,KBytes,359,Kbits/sec
+reno/reno:2,5,5.0- 6.0 sec,0.00,Bytes,0.00,bits/sec,22.6,KBytes,185,Kbits/sec
+reno/reno:2,6,6.0- 7.0 sec,433,KBytes,3.54,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:2,7,7.0- 8.0 sec,48.1,KBytes,394,Kbits/sec,45.2,KBytes,371,Kbits/sec
+reno/reno:2,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:2,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/reno:2,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/reno:2,11,11.0-12.0 sec,140,KBytes,1.15,Mbits/sec,5.66,KBytes,46.3,Kbits/sec
+reno/reno:2,12,12.0-13.0 sec,255,KBytes,2.09,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:2,13,13.0-14.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:2,14,14.0-15.0 sec,63.6,KBytes,521,Kbits/sec,50.9,KBytes,417,Kbits/sec
+reno/reno:2,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:2,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/reno:2,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:2,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:2,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:3,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+reno/reno:3,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+reno/reno:3,2,2.0- 3.0 sec,185,KBytes,1.52,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:3,3,3.0- 4.0 sec,0.00,Bytes,0.00,bits/sec,11.3,KBytes,92.7,Kbits/sec
+reno/reno:3,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,43.8,KBytes,359,Kbits/sec
+reno/reno:3,5,5.0- 6.0 sec,123,KBytes,1.01,Mbits/sec,22.6,KBytes,185,Kbits/sec
+reno/reno:3,6,6.0- 7.0 sec,226,KBytes,1.85,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:3,7,7.0- 8.0 sec,56.6,KBytes,463,Kbits/sec,45.2,KBytes,371,Kbits/sec
+reno/reno:3,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:3,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/reno:3,10,10.0-11.0 sec,56.6,KBytes,463,Kbits/sec,56.6,KBytes,463,Kbits/sec
+reno/reno:3,11,11.0-12.0 sec,70.7,KBytes,579,Kbits/sec,5.66,KBytes,46.3,Kbits/sec
+reno/reno:3,12,12.0-13.0 sec,255,KBytes,2.09,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:3,13,13.0-14.0 sec,191,KBytes,1.56,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:3,14,14.0-15.0 sec,127,KBytes,1.04,Mbits/sec,22.6,KBytes,185,Kbits/sec
+reno/reno:3,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,45.2,KBytes,371,Kbits/sec
+reno/reno:3,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:3,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:3,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:3,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:4,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+reno/reno:4,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+reno/reno:4,2,2.0- 3.0 sec,133,KBytes,1.09,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:4,3,3.0- 4.0 sec,1.41,KBytes,11.6,Kbits/sec,11.3,KBytes,92.7,Kbits/sec
+reno/reno:4,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,43.8,KBytes,359,Kbits/sec
+reno/reno:4,5,5.0- 6.0 sec,188,KBytes,1.54,Mbits/sec,22.6,KBytes,185,Kbits/sec
+reno/reno:4,6,6.0- 7.0 sec,197,KBytes,1.61,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:4,7,7.0- 8.0 sec,127,KBytes,1.04,Mbits/sec,39.6,KBytes,324,Kbits/sec
+reno/reno:4,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/reno:4,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:4,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:4,11,11.0-12.0 sec,127,KBytes,1.04,Mbits/sec,5.66,KBytes,46.3,Kbits/sec
+reno/reno:4,12,12.0-13.0 sec,191,KBytes,1.56,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:4,13,13.0-14.0 sec,191,KBytes,1.56,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/reno:4,14,14.0-15.0 sec,191,KBytes,1.56,Mbits/sec,11.3,KBytes,92.7,Kbits/sec
+reno/reno:4,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,39.6,KBytes,324,Kbits/sec
+reno/reno:4,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:4,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/reno:4,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/reno:4,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/reno:4,20,0.0-20.5 sec,1.48,MBytes,605,Kbits/sec,790,KBytes,317,Kbits/sec
+reno/westwood:0,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,105,KBytes,857,Kbits/sec
+reno/westwood:0,1,1.0- 2.0 sec,156,KBytes,1.27,Mbits/sec,62.2,KBytes,510,Kbits/sec
+reno/westwood:0,2,2.0- 3.0 sec,187,KBytes,1.53,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:0,3,3.0- 4.0 sec,218,KBytes,1.78,Mbits/sec,31.1,KBytes,255,Kbits/sec
+reno/westwood:0,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:0,5,5.0- 6.0 sec,194,KBytes,1.59,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:0,6,6.0- 7.0 sec,199,KBytes,1.63,Mbits/sec,2.83,KBytes,23.2,Kbits/sec
+reno/westwood:0,7,7.0- 8.0 sec,0.00,Bytes,0.00,bits/sec,28.3,KBytes,232,Kbits/sec
+reno/westwood:0,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,46.7,KBytes,382,Kbits/sec
+reno/westwood:0,9,9.0-10.0 sec,191,KBytes,1.56,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:0,10,10.0-11.0 sec,127,KBytes,1.04,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:0,11,11.0-12.0 sec,191,KBytes,1.56,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:0,12,12.0-13.0 sec,191,KBytes,1.56,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:0,13,13.0-14.0 sec,191,KBytes,1.56,Mbits/sec,11.3,KBytes,92.7,Kbits/sec
+reno/westwood:0,14,14.0-15.0 sec,191,KBytes,1.56,Mbits/sec,11.3,KBytes,92.7,Kbits/sec
+reno/westwood:0,15,15.0-16.0 sec,63.6,KBytes,521,Kbits/sec,56.6,KBytes,463,Kbits/sec
+reno/westwood:0,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/westwood:0,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/westwood:0,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,28.3,KBytes,232,Kbits/sec
+reno/westwood:0,19,19.0-20.0 sec,191,KBytes,1.56,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:1,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+reno/westwood:1,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+reno/westwood:1,2,2.0- 3.0 sec,119,KBytes,973,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:1,3,3.0- 4.0 sec,8.48,KBytes,69.5,Kbits/sec,11.3,KBytes,92.7,Kbits/sec
+reno/westwood:1,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,43.8,KBytes,359,Kbits/sec
+reno/westwood:1,5,5.0- 6.0 sec,288,KBytes,2.36,Mbits/sec,22.6,KBytes,185,Kbits/sec
+reno/westwood:1,6,6.0- 7.0 sec,144,KBytes,1.18,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:1,7,7.0- 8.0 sec,48.1,KBytes,394,Kbits/sec,33.9,KBytes,278,Kbits/sec
+reno/westwood:1,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/westwood:1,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/westwood:1,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/westwood:1,11,11.0-12.0 sec,11.3,KBytes,92.7,Kbits/sec,17.0,KBytes,139,Kbits/sec
+reno/westwood:1,12,12.0-13.0 sec,4.24,KBytes,34.8,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:1,13,13.0-14.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:1,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,22.6,KBytes,185,Kbits/sec
+reno/westwood:1,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/westwood:1,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/westwood:1,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/westwood:1,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/westwood:1,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/westwood:2,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+reno/westwood:2,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+reno/westwood:2,2,2.0- 3.0 sec,139,KBytes,1.14,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:2,3,3.0- 4.0 sec,45.2,KBytes,371,Kbits/sec,11.3,KBytes,92.7,Kbits/sec
+reno/westwood:2,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,38.2,KBytes,313,Kbits/sec
+reno/westwood:2,5,5.0- 6.0 sec,105,KBytes,857,Kbits/sec,28.3,KBytes,232,Kbits/sec
+reno/westwood:2,6,6.0- 7.0 sec,14.1,KBytes,116,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:2,7,7.0- 8.0 sec,318,KBytes,2.61,Mbits/sec,28.3,KBytes,232,Kbits/sec
+reno/westwood:2,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/westwood:2,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/westwood:2,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/westwood:2,11,11.0-12.0 sec,0.00,Bytes,0.00,bits/sec,22.6,KBytes,185,Kbits/sec
+reno/westwood:2,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:2,13,13.0-14.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:2,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:2,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,50.9,KBytes,417,Kbits/sec
+reno/westwood:2,16,16.0-17.0 sec,63.6,KBytes,521,Kbits/sec,50.9,KBytes,417,Kbits/sec
+reno/westwood:2,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/westwood:2,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/westwood:2,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/westwood:3,0,0.0- 1.0 sec,105,KBytes,857,Kbits/sec,105,KBytes,857,Kbits/sec
+reno/westwood:3,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:3,2,2.0- 3.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:3,3,3.0- 4.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:3,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:3,5,5.0- 6.0 sec,173,KBytes,1.41,Mbits/sec,25.5,KBytes,209,Kbits/sec
+reno/westwood:3,6,6.0- 7.0 sec,53.7,KBytes,440,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:3,7,7.0- 8.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:3,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,73.5,KBytes,602,Kbits/sec
+reno/westwood:3,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,72.1,KBytes,591,Kbits/sec
+reno/westwood:3,10,10.0-11.0 sec,236,KBytes,1.93,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:3,11,11.0-12.0 sec,178,KBytes,1.46,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:3,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:3,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,11.3,KBytes,92.7,Kbits/sec
+reno/westwood:3,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/westwood:3,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/westwood:3,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/westwood:3,17,17.0-18.0 sec,4.24,KBytes,34.8,Kbits/sec,33.9,KBytes,278,Kbits/sec
+reno/westwood:3,18,18.0-19.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:3,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:3,20,0.0-20.5 sec,813,KBytes,325,Kbits/sec,502,KBytes,201,Kbits/sec
+reno/westwood:4,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+reno/westwood:4,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+reno/westwood:4,2,2.0- 3.0 sec,116,KBytes,950,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:4,3,3.0- 4.0 sec,11.3,KBytes,92.7,Kbits/sec,5.66,KBytes,46.3,Kbits/sec
+reno/westwood:4,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,38.2,KBytes,313,Kbits/sec
+reno/westwood:4,5,5.0- 6.0 sec,144,KBytes,1.18,Mbits/sec,33.9,KBytes,278,Kbits/sec
+reno/westwood:4,6,6.0- 7.0 sec,240,KBytes,1.97,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:4,7,7.0- 8.0 sec,96.2,KBytes,788,Kbits/sec,22.6,KBytes,185,Kbits/sec
+reno/westwood:4,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,50.9,KBytes,417,Kbits/sec
+reno/westwood:4,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/westwood:4,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,50.9,KBytes,417,Kbits/sec
+reno/westwood:4,11,11.0-12.0 sec,8.48,KBytes,69.5,Kbits/sec,45.2,KBytes,371,Kbits/sec
+reno/westwood:4,12,12.0-13.0 sec,7.07,KBytes,57.9,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:4,13,13.0-14.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/westwood:4,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,11.3,KBytes,92.7,Kbits/sec
+reno/westwood:4,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,50.9,KBytes,417,Kbits/sec
+reno/westwood:4,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,50.9,KBytes,417,Kbits/sec
+reno/westwood:4,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,45.2,KBytes,371,Kbits/sec
+reno/westwood:4,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/westwood:4,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/westwood:4,20,0.0-20.5 sec,854,KBytes,342,Kbits/sec,779,KBytes,312,Kbits/sec
+reno/illinois:0,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+reno/illinois:0,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+reno/illinois:0,2,2.0- 3.0 sec,127,KBytes,1.04,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:0,3,3.0- 4.0 sec,8.48,KBytes,69.5,Kbits/sec,11.3,KBytes,92.7,Kbits/sec
+reno/illinois:0,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,43.8,KBytes,359,Kbits/sec
+reno/illinois:0,5,5.0- 6.0 sec,144,KBytes,1.18,Mbits/sec,22.6,KBytes,185,Kbits/sec
+reno/illinois:0,6,6.0- 7.0 sec,288,KBytes,2.36,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:0,7,7.0- 8.0 sec,0.00,Bytes,0.00,bits/sec,39.6,KBytes,324,Kbits/sec
+reno/illinois:0,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/illinois:0,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/illinois:0,10,10.0-11.0 sec,48.1,KBytes,394,Kbits/sec,56.6,KBytes,463,Kbits/sec
+reno/illinois:0,11,11.0-12.0 sec,15.6,KBytes,127,Kbits/sec,5.66,KBytes,46.3,Kbits/sec
+reno/illinois:0,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:0,13,13.0-14.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:0,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,33.9,KBytes,278,Kbits/sec
+reno/illinois:0,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/illinois:0,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,39.6,KBytes,324,Kbits/sec
+reno/illinois:0,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:0,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:0,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:1,0,0.0- 1.0 sec,105,KBytes,857,Kbits/sec,167,KBytes,1.37,Mbits/sec
+reno/illinois:1,1,1.0- 2.0 sec,62.2,KBytes,510,Kbits/sec,31.1,KBytes,255,Kbits/sec
+reno/illinois:1,2,2.0- 3.0 sec,0.00,Bytes,0.00,bits/sec,311,KBytes,2.55,Mbits/sec
+reno/illinois:1,3,3.0- 4.0 sec,124,KBytes,1.02,Mbits/sec,187,KBytes,1.53,Mbits/sec
+reno/illinois:1,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,93.3,KBytes,765,Kbits/sec
+reno/illinois:1,5,5.0- 6.0 sec,0.00,Bytes,0.00,bits/sec,151,KBytes,1.24,Mbits/sec
+reno/illinois:1,6,6.0- 7.0 sec,0.00,Bytes,0.00,bits/sec,141,KBytes,1.16,Mbits/sec
+reno/illinois:1,7,7.0- 8.0 sec,28.3,KBytes,232,Kbits/sec,127,KBytes,1.04,Mbits/sec
+reno/illinois:1,8,8.0- 9.0 sec,4.24,KBytes,34.8,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:1,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,127,KBytes,1.04,Mbits/sec
+reno/illinois:1,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+reno/illinois:1,11,11.0-12.0 sec,0.00,Bytes,0.00,bits/sec,318,KBytes,2.61,Mbits/sec
+reno/illinois:1,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,191,KBytes,1.56,Mbits/sec
+reno/illinois:1,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,191,KBytes,1.56,Mbits/sec
+reno/illinois:1,14,14.0-15.0 sec,445,KBytes,3.65,Mbits/sec,127,KBytes,1.04,Mbits/sec
+reno/illinois:1,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,127,KBytes,1.04,Mbits/sec
+reno/illinois:1,16,16.0-17.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:1,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:1,18,18.0-19.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:1,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+reno/illinois:2,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+reno/illinois:2,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+reno/illinois:2,2,2.0- 3.0 sec,119,KBytes,973,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:2,3,3.0- 4.0 sec,8.48,KBytes,69.5,Kbits/sec,11.3,KBytes,92.7,Kbits/sec
+reno/illinois:2,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,38.2,KBytes,313,Kbits/sec
+reno/illinois:2,5,5.0- 6.0 sec,0.00,Bytes,0.00,bits/sec,28.3,KBytes,232,Kbits/sec
+reno/illinois:2,6,6.0- 7.0 sec,433,KBytes,3.54,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:2,7,7.0- 8.0 sec,48.1,KBytes,394,Kbits/sec,33.9,KBytes,278,Kbits/sec
+reno/illinois:2,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/illinois:2,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,50.9,KBytes,417,Kbits/sec
+reno/illinois:2,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/illinois:2,11,11.0-12.0 sec,15.6,KBytes,127,Kbits/sec,22.6,KBytes,185,Kbits/sec
+reno/illinois:2,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:2,13,13.0-14.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:2,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,22.6,KBytes,185,Kbits/sec
+reno/illinois:2,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,45.2,KBytes,371,Kbits/sec
+reno/illinois:2,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,56.6,KBytes,463,Kbits/sec
+reno/illinois:2,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/illinois:2,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,50.9,KBytes,417,Kbits/sec
+reno/illinois:2,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,62.2,KBytes,510,Kbits/sec
+reno/illinois:3,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+reno/illinois:3,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+reno/illinois:3,2,2.0- 3.0 sec,127,KBytes,1.04,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:3,3,3.0- 4.0 sec,56.6,KBytes,463,Kbits/sec,221,KBytes,1.81,Mbits/sec
+reno/illinois:3,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+reno/illinois:3,5,5.0- 6.0 sec,128,KBytes,1.05,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:3,6,6.0- 7.0 sec,209,KBytes,1.71,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:3,7,7.0- 8.0 sec,48.1,KBytes,394,Kbits/sec,63.6,KBytes,521,Kbits/sec
+reno/illinois:3,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:3,9,9.0-10.0 sec,59.4,KBytes,487,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:3,10,10.0-11.0 sec,4.24,KBytes,34.8,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:3,11,11.0-12.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:3,12,12.0-13.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:3,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+reno/illinois:3,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:3,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:3,16,16.0-17.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:3,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:3,18,18.0-19.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:3,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+reno/illinois:4,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+reno/illinois:4,2,2.0- 3.0 sec,136,KBytes,1.11,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,3,3.0- 4.0 sec,43.8,KBytes,359,Kbits/sec,221,KBytes,1.81,Mbits/sec
+reno/illinois:4,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+reno/illinois:4,5,5.0- 6.0 sec,211,KBytes,1.73,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,6,6.0- 7.0 sec,127,KBytes,1.04,Mbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,7,7.0- 8.0 sec,63.6,KBytes,521,Kbits/sec,63.6,KBytes,521,Kbits/sec
+reno/illinois:4,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,9,9.0-10.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,11,11.0-12.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,12,12.0-13.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+reno/illinois:4,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,16,16.0-17.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,18,18.0-19.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+reno/illinois:4,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:0,0,0.0- 1.0 sec,105,KBytes,857,Kbits/sec,167,KBytes,1.37,Mbits/sec
+westwood/westwood:0,1,1.0- 2.0 sec,62.2,KBytes,510,Kbits/sec,31.1,KBytes,255,Kbits/sec
+westwood/westwood:0,2,2.0- 3.0 sec,0.00,Bytes,0.00,bits/sec,218,KBytes,1.78,Mbits/sec
+westwood/westwood:0,3,3.0- 4.0 sec,93.3,KBytes,765,Kbits/sec,31.1,KBytes,255,Kbits/sec
+westwood/westwood:0,4,4.0- 5.0 sec,62.2,KBytes,510,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:0,5,5.0- 6.0 sec,0.00,Bytes,0.00,bits/sec,18.4,KBytes,151,Kbits/sec
+westwood/westwood:0,6,6.0- 7.0 sec,0.00,Bytes,0.00,bits/sec,77.8,KBytes,637,Kbits/sec
+westwood/westwood:0,7,7.0- 8.0 sec,209,KBytes,1.71,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:0,8,8.0- 9.0 sec,7.07,KBytes,57.9,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:0,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:0,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+westwood/westwood:0,11,11.0-12.0 sec,255,KBytes,2.09,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:0,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:0,13,13.0-14.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:0,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:0,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:0,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:0,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+westwood/westwood:0,18,18.0-19.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:0,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:1,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+westwood/westwood:1,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+westwood/westwood:1,2,2.0- 3.0 sec,133,KBytes,1.09,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:1,3,3.0- 4.0 sec,45.2,KBytes,371,Kbits/sec,221,KBytes,1.81,Mbits/sec
+westwood/westwood:1,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+westwood/westwood:1,5,5.0- 6.0 sec,130,KBytes,1.07,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:1,6,6.0- 7.0 sec,197,KBytes,1.61,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:1,7,7.0- 8.0 sec,63.6,KBytes,521,Kbits/sec,63.6,KBytes,521,Kbits/sec
+westwood/westwood:1,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:1,9,9.0-10.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:1,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:1,11,11.0-12.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:1,12,12.0-13.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:1,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+westwood/westwood:1,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:1,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:1,16,16.0-17.0 sec,63.6,KBytes,521,Kbits/sec,63.6,KBytes,521,Kbits/sec
+westwood/westwood:1,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:1,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:1,19,19.0-20.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:2,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+westwood/westwood:2,1,1.0- 2.0 sec,31.1,KBytes,255,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:2,2,2.0- 3.0 sec,0.00,Bytes,0.00,bits/sec,90.5,KBytes,741,Kbits/sec
+westwood/westwood:2,3,3.0- 4.0 sec,276,KBytes,2.26,Mbits/sec,45.2,KBytes,371,Kbits/sec
+westwood/westwood:2,4,4.0- 5.0 sec,147,KBytes,1.20,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:2,5,5.0- 6.0 sec,127,KBytes,1.04,Mbits/sec,14.1,KBytes,116,Kbits/sec
+westwood/westwood:2,6,6.0- 7.0 sec,0.00,Bytes,0.00,bits/sec,133,KBytes,1.09,Mbits/sec
+westwood/westwood:2,7,7.0- 8.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:2,8,8.0- 9.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:2,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:2,10,10.0-11.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:2,11,11.0-12.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+westwood/westwood:2,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:2,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:2,14,14.0-15.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:2,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:2,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:2,17,17.0-18.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:2,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+westwood/westwood:2,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+westwood/westwood:3,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+westwood/westwood:3,2,2.0- 3.0 sec,96.2,KBytes,788,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,3,3.0- 4.0 sec,89.1,KBytes,730,Kbits/sec,221,KBytes,1.81,Mbits/sec
+westwood/westwood:3,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+westwood/westwood:3,5,5.0- 6.0 sec,66.5,KBytes,544,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,6,6.0- 7.0 sec,72.1,KBytes,591,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,7,7.0- 8.0 sec,255,KBytes,2.09,Mbits/sec,63.6,KBytes,521,Kbits/sec
+westwood/westwood:3,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,10,10.0-11.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,11,11.0-12.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,12,12.0-13.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+westwood/westwood:3,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+westwood/westwood:3,18,18.0-19.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:3,20,0.0-20.1 sec,936,KBytes,381,Kbits/sec,625,KBytes,255,Kbits/sec
+westwood/westwood:4,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,105,KBytes,857,Kbits/sec
+westwood/westwood:4,1,1.0- 2.0 sec,62.2,KBytes,510,Kbits/sec,62.2,KBytes,510,Kbits/sec
+westwood/westwood:4,2,2.0- 3.0 sec,280,KBytes,2.29,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:4,3,3.0- 4.0 sec,218,KBytes,1.78,Mbits/sec,31.1,KBytes,255,Kbits/sec
+westwood/westwood:4,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:4,5,5.0- 6.0 sec,59.4,KBytes,487,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:4,6,6.0- 7.0 sec,9.90,KBytes,81.1,Kbits/sec,128,KBytes,1.05,Mbits/sec
+westwood/westwood:4,7,7.0- 8.0 sec,0.00,Bytes,0.00,bits/sec,92.6,KBytes,759,Kbits/sec
+westwood/westwood:4,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+westwood/westwood:4,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:4,10,10.0-11.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:4,11,11.0-12.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:4,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:4,13,13.0-14.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:4,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+westwood/westwood:4,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:4,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:4,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:4,18,18.0-19.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/westwood:4,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+westwood/illinois:0,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+westwood/illinois:0,2,2.0- 3.0 sec,133,KBytes,1.09,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,3,3.0- 4.0 sec,1.41,KBytes,11.6,Kbits/sec,221,KBytes,1.81,Mbits/sec
+westwood/illinois:0,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+westwood/illinois:0,5,5.0- 6.0 sec,177,KBytes,1.45,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,6,6.0- 7.0 sec,136,KBytes,1.11,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,7,7.0- 8.0 sec,127,KBytes,1.04,Mbits/sec,63.6,KBytes,521,Kbits/sec
+westwood/illinois:0,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,10,10.0-11.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,11,11.0-12.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,12,12.0-13.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+westwood/illinois:0,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,18,18.0-19.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:0,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+westwood/illinois:1,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+westwood/illinois:1,2,2.0- 3.0 sec,139,KBytes,1.14,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,3,3.0- 4.0 sec,1.41,KBytes,11.6,Kbits/sec,221,KBytes,1.81,Mbits/sec
+westwood/illinois:1,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+westwood/illinois:1,5,5.0- 6.0 sec,17.0,KBytes,139,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,6,6.0- 7.0 sec,385,KBytes,3.15,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,7,7.0- 8.0 sec,63.6,KBytes,521,Kbits/sec,63.6,KBytes,521,Kbits/sec
+westwood/illinois:1,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,11,11.0-12.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,13,13.0-14.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+westwood/illinois:1,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,19,19.0-20.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:1,20,0.0-20.1 sec,963,KBytes,392,Kbits/sec,561,KBytes,229,Kbits/sec
+westwood/illinois:2,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+westwood/illinois:2,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+westwood/illinois:2,2,2.0- 3.0 sec,119,KBytes,973,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:2,3,3.0- 4.0 sec,56.6,KBytes,463,Kbits/sec,221,KBytes,1.81,Mbits/sec
+westwood/illinois:2,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+westwood/illinois:2,5,5.0- 6.0 sec,144,KBytes,1.18,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:2,6,6.0- 7.0 sec,144,KBytes,1.18,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:2,7,7.0- 8.0 sec,144,KBytes,1.18,Mbits/sec,63.6,KBytes,521,Kbits/sec
+westwood/illinois:2,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:2,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:2,10,10.0-11.0 sec,15.6,KBytes,127,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:2,11,11.0-12.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:2,12,12.0-13.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:2,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:2,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+westwood/illinois:2,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:2,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:2,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:2,18,18.0-19.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:2,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+westwood/illinois:3,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+westwood/illinois:3,2,2.0- 3.0 sec,133,KBytes,1.09,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,3,3.0- 4.0 sec,45.2,KBytes,371,Kbits/sec,221,KBytes,1.81,Mbits/sec
+westwood/illinois:3,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+westwood/illinois:3,5,5.0- 6.0 sec,5.66,KBytes,46.3,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,6,6.0- 7.0 sec,269,KBytes,2.20,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,7,7.0- 8.0 sec,127,KBytes,1.04,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+westwood/illinois:3,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,11,11.0-12.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,13,13.0-14.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+westwood/illinois:3,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:3,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+westwood/illinois:4,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+westwood/illinois:4,2,2.0- 3.0 sec,184,KBytes,1.51,Mbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,3,3.0- 4.0 sec,43.8,KBytes,359,Kbits/sec,221,KBytes,1.81,Mbits/sec
+westwood/illinois:4,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+westwood/illinois:4,5,5.0- 6.0 sec,66.5,KBytes,544,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,6,6.0- 7.0 sec,72.1,KBytes,591,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,7,7.0- 8.0 sec,255,KBytes,2.09,Mbits/sec,63.6,KBytes,521,Kbits/sec
+westwood/illinois:4,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,11,11.0-12.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,12,12.0-13.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,14,14.0-15.0 sec,63.6,KBytes,521,Kbits/sec,63.6,KBytes,521,Kbits/sec
+westwood/illinois:4,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+westwood/illinois:4,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+illinois/illinois:0,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+illinois/illinois:0,2,2.0- 3.0 sec,140,KBytes,1.15,Mbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,3,3.0- 4.0 sec,0.00,Bytes,0.00,bits/sec,221,KBytes,1.81,Mbits/sec
+illinois/illinois:0,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+illinois/illinois:0,5,5.0- 6.0 sec,182,KBytes,1.49,Mbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,6,6.0- 7.0 sec,198,KBytes,1.62,Mbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,7,7.0- 8.0 sec,63.6,KBytes,521,Kbits/sec,63.6,KBytes,521,Kbits/sec
+illinois/illinois:0,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,10,10.0-11.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,11,11.0-12.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,13,13.0-14.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+illinois/illinois:0,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:0,19,19.0-20.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+illinois/illinois:1,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+illinois/illinois:1,2,2.0- 3.0 sec,133,KBytes,1.09,Mbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,3,3.0- 4.0 sec,1.41,KBytes,11.6,Kbits/sec,221,KBytes,1.81,Mbits/sec
+illinois/illinois:1,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+illinois/illinois:1,5,5.0- 6.0 sec,274,KBytes,2.25,Mbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,6,6.0- 7.0 sec,127,KBytes,1.04,Mbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,7,7.0- 8.0 sec,63.6,KBytes,521,Kbits/sec,63.6,KBytes,521,Kbits/sec
+illinois/illinois:1,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,11,11.0-12.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,14,14.0-15.0 sec,63.6,KBytes,521,Kbits/sec,63.6,KBytes,521,Kbits/sec
+illinois/illinois:1,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:1,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:2,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,105,KBytes,857,Kbits/sec
+illinois/illinois:2,1,1.0- 2.0 sec,62.2,KBytes,510,Kbits/sec,62.2,KBytes,510,Kbits/sec
+illinois/illinois:2,2,2.0- 3.0 sec,266,KBytes,2.18,Mbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:2,3,3.0- 4.0 sec,177,KBytes,1.45,Mbits/sec,31.1,KBytes,255,Kbits/sec
+illinois/illinois:2,4,4.0- 5.0 sec,87.7,KBytes,718,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:2,5,5.0- 6.0 sec,14.1,KBytes,116,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:2,6,6.0- 7.0 sec,5.66,KBytes,46.3,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:2,7,7.0- 8.0 sec,63.6,KBytes,521,Kbits/sec,206,KBytes,1.69,Mbits/sec
+illinois/illinois:2,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,28.3,KBytes,232,Kbits/sec
+illinois/illinois:2,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,1.41,KBytes,11.6,Kbits/sec
+illinois/illinois:2,10,10.0-11.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:2,11,11.0-12.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:2,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:2,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:2,14,14.0-15.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:2,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+illinois/illinois:2,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:2,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:2,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:2,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+illinois/illinois:3,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+illinois/illinois:3,2,2.0- 3.0 sec,127,KBytes,1.04,Mbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,3,3.0- 4.0 sec,56.6,KBytes,463,Kbits/sec,221,KBytes,1.81,Mbits/sec
+illinois/illinois:3,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+illinois/illinois:3,5,5.0- 6.0 sec,144,KBytes,1.18,Mbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,6,6.0- 7.0 sec,192,KBytes,1.58,Mbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,7,7.0- 8.0 sec,48.1,KBytes,394,Kbits/sec,63.6,KBytes,521,Kbits/sec
+illinois/illinois:3,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,9,9.0-10.0 sec,48.1,KBytes,394,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,10,10.0-11.0 sec,15.6,KBytes,127,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,11,11.0-12.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,12,12.0-13.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,14,14.0-15.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+illinois/illinois:3,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,18,18.0-19.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:3,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,0,0.0- 1.0 sec,167,KBytes,1.37,Mbits/sec,167,KBytes,1.37,Mbits/sec
+illinois/illinois:4,1,1.0- 2.0 sec,0.00,Bytes,0.00,bits/sec,31.1,KBytes,255,Kbits/sec
+illinois/illinois:4,2,2.0- 3.0 sec,127,KBytes,1.04,Mbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,3,3.0- 4.0 sec,52.3,KBytes,429,Kbits/sec,221,KBytes,1.81,Mbits/sec
+illinois/illinois:4,4,4.0- 5.0 sec,0.00,Bytes,0.00,bits/sec,15.6,KBytes,127,Kbits/sec
+illinois/illinois:4,5,5.0- 6.0 sec,9.90,KBytes,81.1,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,6,6.0- 7.0 sec,339,KBytes,2.78,Mbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,7,7.0- 8.0 sec,56.6,KBytes,463,Kbits/sec,63.6,KBytes,521,Kbits/sec
+illinois/illinois:4,8,8.0- 9.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,9,9.0-10.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,10,10.0-11.0 sec,7.07,KBytes,57.9,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,11,11.0-12.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,12,12.0-13.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,13,13.0-14.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,14,14.0-15.0 sec,63.6,KBytes,521,Kbits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,15,15.0-16.0 sec,0.00,Bytes,0.00,bits/sec,63.6,KBytes,521,Kbits/sec
+illinois/illinois:4,16,16.0-17.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,17,17.0-18.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,18,18.0-19.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
+illinois/illinois:4,19,19.0-20.0 sec,0.00,Bytes,0.00,bits/sec,0.00,Bytes,0.00,bits/sec
