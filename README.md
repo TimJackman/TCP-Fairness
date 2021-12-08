@@ -12,13 +12,17 @@ Open Experiment1Controller.py and edit lines 82 (window_size = "'...'"), 89 (del
 Line 82 changes the buffer size, provide three integer values separated by spaces to set the minimum, default, and maximum buffer sizes for the machines A B C and D. We use the following settings for our three investigated conditions:
 
 1990's Internet: 1000 25000 64000
+
 2020's Internet: 1000 50000 100000
+
 Long Haul: 10000 80000 75000000
 
 Line 89 and 90 change the network conditions (capacity, delay, packet loss rate). Here are the settings we used:
 
 1990's Internet: 32 kbps delay 10ms loss 0.001%
+
 2020's Internet: 100 mbps delay 1ms loss 1%
+
 Long Haul: 1 gbps delay 30ms loss 0.1%
 
 Then run the file. The file will run every combination of tcp reno, tcp illinois, and tcp westwood on the machines (for 20 seconds each run), a total of five times each. This will take approximately 10 minutes and it will save the results to the csv named in line 146 (in the same folder that the python script is in).
