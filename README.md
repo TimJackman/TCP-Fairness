@@ -27,7 +27,7 @@ Long Haul: 1 gbps delay 30ms loss 0.1%
 
 Then run the file. The file will run every combination of tcp reno, tcp illinois, and tcp westwood on the machines (for 20 seconds each run), a total of five times each. This will take approximately 10 minutes and it will save the results to the csv named in line 146 (in the same folder that the python script is in).
 
-From there, to process the data into plots, open data_wrangling.py in the same folder and edit line 137 (data = pd.read_csv("..."), putting in the name of the csv file. You can then run it to generate the plots. If you want to plot a specific run edit line 152 with the name of the run (e.g. "reno/illionois:4" plots the fourth run of reno v illinois)
+From there, to process the data into plots, open data_wrangling.py in the same folder and edit line 137 (data = pd.read_csv("..."), putting in the name of the csv file. You can then run it to generate the plots. If you want to plot a specific run edit line 152 with the name of the run (e.g. "reno/illionois:4" plots the fifth run of reno v illinois)
 
 ___
 
