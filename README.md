@@ -1,6 +1,8 @@
 # TCP-Fairness
 Mini GENI project for BU CS655
 
+Link to Working Demo video: https://drive.google.com/file/d/1-SRjaxcVdOhZfy1ePO9PKV3JGvW6mZpd/view?usp=sharing
+
 In order to run the experiments, first reserve the necessary resources on GENI using the provided Rspec file. The Rspec reserves five machines: four machines A, B, C, and D which will communicate and the delay node which controls network conditions.
 
 Then, note down the username, IP address, and port number of each machine. Fill out the respective config file with this information (config1 for Experiment 1, config2 for Experiment 2). If your private SSH key has a passphrase also include it here to allow your machine to SSH into the reserved machines.
